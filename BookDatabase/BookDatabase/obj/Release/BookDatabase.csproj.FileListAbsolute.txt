@@ -1,0 +1,17 @@
+D:\Diploma Of IT\Programming(C#)\Term 3\Week 6\BookDatabase\BookDatabase\bin\Release\BookDatabase.exe.config
+D:\Diploma Of IT\Programming(C#)\Term 3\Week 6\BookDatabase\BookDatabase\bin\Release\BookDatabase.exe
+D:\Diploma Of IT\Programming(C#)\Term 3\Week 6\BookDatabase\BookDatabase\bin\Release\BookDatabase.pdb
+D:\Diploma Of IT\Programming(C#)\Term 3\Week 6\BookDatabase\BookDatabase\obj\Release\BookDatabase.csprojAssemblyReference.cache
+D:\Diploma Of IT\Programming(C#)\Term 3\Week 6\BookDatabase\BookDatabase\obj\Release\BookList.g.cs
+D:\Diploma Of IT\Programming(C#)\Term 3\Week 6\BookDatabase\BookDatabase\obj\Release\MainWindow.g.cs
+D:\Diploma Of IT\Programming(C#)\Term 3\Week 6\BookDatabase\BookDatabase\obj\Release\App.g.cs
+D:\Diploma Of IT\Programming(C#)\Term 3\Week 6\BookDatabase\BookDatabase\obj\Release\BookDatabase_MarkupCompile.cache
+D:\Diploma Of IT\Programming(C#)\Term 3\Week 6\BookDatabase\BookDatabase\obj\Release\BookDatabase_MarkupCompile.lref
+D:\Diploma Of IT\Programming(C#)\Term 3\Week 6\BookDatabase\BookDatabase\obj\Release\BookList.baml
+D:\Diploma Of IT\Programming(C#)\Term 3\Week 6\BookDatabase\BookDatabase\obj\Release\MainWindow.baml
+D:\Diploma Of IT\Programming(C#)\Term 3\Week 6\BookDatabase\BookDatabase\obj\Release\BookDatabase.g.resources
+D:\Diploma Of IT\Programming(C#)\Term 3\Week 6\BookDatabase\BookDatabase\obj\Release\BookDatabase.Properties.Resources.resources
+D:\Diploma Of IT\Programming(C#)\Term 3\Week 6\BookDatabase\BookDatabase\obj\Release\BookDatabase.csproj.GenerateResource.cache
+D:\Diploma Of IT\Programming(C#)\Term 3\Week 6\BookDatabase\BookDatabase\obj\Release\BookDatabase.csproj.CoreCompileInputs.cache
+D:\Diploma Of IT\Programming(C#)\Term 3\Week 6\BookDatabase\BookDatabase\obj\Release\BookDatabase.exe
+D:\Diploma Of IT\Programming(C#)\Term 3\Week 6\BookDatabase\BookDatabase\obj\Release\BookDatabase.pdb
